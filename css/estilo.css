@@ -171,7 +171,6 @@ main {
 }
 
 .hero::before {
-  content: "Art Decó";
   position: absolute;
   top: 5px;
   left: 50%;
